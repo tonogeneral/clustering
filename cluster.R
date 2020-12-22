@@ -1,4 +1,6 @@
 #Gráfico en cluster
+#Creado por Gabriel General
+#22-12-2020
 set.seed(1234)
 par(mar = c(0,0,0,0))
 x <-rnorm(12, mean = rep(1:3,each = 4), sd = 0.2)
