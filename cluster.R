@@ -1,7 +1,11 @@
 #Gráfico en cluster
 #Creado por Gabriel General
+<<<<<<< HEAD
 #22-12-2020 01:05
 
+=======
+#22-12-2020
+>>>>>>> a92b69029af243ce9394cc20fe34904f2774258d
 
 set.seed(1234)
 par(mar = c(0,0,0,0))
